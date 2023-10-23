@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"typeindex": "c",
+		"typeinfo": "c",
+		"hash_map": "c",
+		"algorithm": "c"
+	}
+}
